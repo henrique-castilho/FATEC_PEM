@@ -3,10 +3,6 @@
 
 Este repositório é dedicado aos projetos e atividades desenvolvidos durante a disciplina de **Programação Estruturada e Modular (PEM)**, cursada na FATEC Ipiranga. O objetivo principal é aplicar os conceitos de estruturação, modularização e boas práticas de programação na linguagem C.
 
-* [Sobre a Disciplina](#️-sobre-a-disciplina)
-* [Como Compilar e Executar](#️-como-compilar-e-executar)
-* [Autor](#-autor)
-
 ---
 
 ## ✏️ Sobre a Disciplina
@@ -53,5 +49,5 @@ Os projetos deste repositório foram desenvolvidos em linguagem C. Para compilar
 ## 👨‍💻 Autor
 
 * **Henrique Castilho**
-    * [LinkedIn](https://www.linkedin.com/in/henriquecastilho/)
+    * [LinkedIn](https://www.linkedin.com/in/henriquecastilhopires/)
     * [GitHub](https://github.com/henrique-castilho)
